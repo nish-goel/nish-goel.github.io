@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Click [here](https://drive.google.com/file/d/1JO1DBDlUIy0QwPcgjaPaplmlUD_mpuAt/view?usp=sharing)
 <!--
 Education
 ======
