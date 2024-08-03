@@ -11,6 +11,7 @@ redirect_from:
 
 * ~~Age of Revolutions: Progress and Backlash from 1600 to the Present~~
 * Other Rivers: A Chinese Education
+* Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 
 <!--
 ## Locations of key files/directories
