@@ -1,14 +1,7 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
 Click [here](https://drive.google.com/file/d/1JO1DBDlUIy0QwPcgjaPaplmlUD_mpuAt/view?usp=sharing)
+{% include base_path %}
+
 <!--
 Education
 ======
