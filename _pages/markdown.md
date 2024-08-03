@@ -1,12 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "List"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
+## Summer 2024
+
+* Age of Revolutions: Progress and Backlash from 1600 to the Present
+
+<!--
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -261,4 +266,5 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+-->
 
