@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://ece.princeton.edu
+permalink: /css/
 author_profile: true
 redirect_from:
   - /resume
