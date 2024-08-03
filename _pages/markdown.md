@@ -9,7 +9,8 @@ redirect_from:
 
 ## Summer 2024
 
-* Age of Revolutions: Progress and Backlash from 1600 to the Present
+* ~~Age of Revolutions: Progress and Backlash from 1600 to the Present~~
+* Other Rivers: A Chinese Education
 
 <!--
 ## Locations of key files/directories
