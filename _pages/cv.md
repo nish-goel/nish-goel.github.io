@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: [CV](https://drive.google.com/file/d/1JO1DBDlUIy0QwPcgjaPaplmlUD_mpuAt/view?usp=sharing)
 permalink: /cv/
 author_profile: true
 redirect_from:
