@@ -10,8 +10,10 @@ redirect_from:
 ## Summer 2024
 
 * ~~Age of Revolutions: Progress and Backlash from 1600 to the Present~~
-* Other Rivers: A Chinese Education
+* ~~Other Rivers: A Chinese Education~~
 * Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+* Autocracy, Inc.: The Dictators Who Want to Run the World
+* Born in Blackness: Africa, Africans, and the making of the modern world, 1471 to the Second World War
 
 <!--
 ## Locations of key files/directories
