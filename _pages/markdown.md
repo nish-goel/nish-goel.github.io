@@ -15,6 +15,7 @@ redirect_from:
 * Autocracy, Inc.: The Dictators Who Want to Run the World
 * Born in Blackness: Africa, Africans, and the making of the modern world, 1471 to the Second World War
 * Medieval Horizons: Why the Middle Ages Matter
+* What Went Wrong with Capitalism
 
 <!--
 ## Locations of key files/directories
