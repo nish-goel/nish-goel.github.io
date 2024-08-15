@@ -14,7 +14,7 @@ redirect_from:
 * ~~Hillbilly Elegy: A Memoir of a Family and Culture in Crisis~~
 * Autocracy, Inc.: The Dictators Who Want to Run the World
 * Born in Blackness: Africa, Africans, and the making of the modern world, 1471 to the Second World War
-* Medieval Horizons: Why the Middle Ages Matter
+* ~~Medieval Horizons: Why the Middle Ages Matter~~
 * What Went Wrong with Capitalism
 
 <!--
