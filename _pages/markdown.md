@@ -18,6 +18,7 @@ redirect_from:
 
 ## Fall 2024
 * What Went Wrong with Capitalism
+
 <!--
 ## Locations of key files/directories
 
