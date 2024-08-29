@@ -12,7 +12,7 @@ redirect_from:
 * ~~Age of Revolutions: Progress and Backlash from 1600 to the Present~~
 * ~~Other Rivers: A Chinese Education~~
 * ~~Hillbilly Elegy: A Memoir of a Family and Culture in Crisis~~
-* Autocracy, Inc.: The Dictators Who Want to Run the World
+* ~~Autocracy, Inc.: The Dictators Who Want to Run the World~~
 * ~~Born in Blackness: Africa, Africans, and the making of the modern world, 1471 to the Second World War~~
 * ~~Medieval Horizons: Why the Middle Ages Matter~~
 
