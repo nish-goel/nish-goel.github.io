@@ -17,7 +17,9 @@ redirect_from:
 * ~~Medieval Horizons: Why the Middle Ages Matter~~
 
 ## Fall 2024
-* What Went Wrong with Capitalism
+* ~~What Went Wrong with Capitalism~~
+* The Future Is History: How Totalitarianism Reclaimed Russia
+* The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
 
 <!--
 ## Locations of key files/directories
