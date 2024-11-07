@@ -20,6 +20,9 @@ redirect_from:
 * ~~What Went Wrong with Capitalism~~
 * The Future Is History: How Totalitarianism Reclaimed Russia
 * The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
+* Why Nations Fail: The Origins of Power, Prosperity, and Poverty
+* The Vegetarian: a novel
+* Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
 
 <!--
 ## Locations of key files/directories
