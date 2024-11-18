@@ -7,6 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
+## Fall 2024
+* ~~What Went Wrong with Capitalism~~
+* The Future Is History: How Totalitarianism Reclaimed Russia
+* ~~The Tipping Point: How Little Things Can Make a Big Difference~~
+* ~~Outliers: The Story of Success~~
+* The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
+* ~~Why Nations Fail: The Origins of Power, Prosperity, and Poverty~~
+* The Vegetarian: a novel
+* Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
+* How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
+
+  
 ## Summer 2024
 
 * ~~Age of Revolutions: Progress and Backlash from 1600 to the Present~~
@@ -16,15 +28,6 @@ redirect_from:
 * ~~Born in Blackness: Africa, Africans, and the making of the modern world, 1471 to the Second World War~~
 * ~~Medieval Horizons: Why the Middle Ages Matter~~
 
-## Fall 2024
-* ~~What Went Wrong with Capitalism~~
-* The Future Is History: How Totalitarianism Reclaimed Russia
-* ~~The Tipping Point: How Little Things Can Make a Big Difference~~
-* Outliers: The Story of Success
-* The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
-* ~~Why Nations Fail: The Origins of Power, Prosperity, and Poverty~~
-* The Vegetarian: a novel
-* Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
 
 <!--
 ## Locations of key files/directories
