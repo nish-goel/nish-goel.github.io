@@ -17,6 +17,7 @@ redirect_from:
 * The Vegetarian: a novel
 * Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
+* The Satanic Verses
 
   
 ## Summer 2024
