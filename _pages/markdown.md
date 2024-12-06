@@ -14,7 +14,7 @@ redirect_from:
 * ~~Outliers: The Story of Success~~
 * The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
 * ~~Why Nations Fail: The Origins of Power, Prosperity, and Poverty~~
-* The Vegetarian: a novel
+* ~~The Vegetarian: a novel~~
 * Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
 * The Satanic Verses
