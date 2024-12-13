@@ -9,7 +9,7 @@ redirect_from:
 
 ## Fall 2024
 * ~~What Went Wrong with Capitalism~~
-* The Future Is History: How Totalitarianism Reclaimed Russia
+* ~~The Future Is History: How Totalitarianism Reclaimed Russia~~
 * ~~The Tipping Point: How Little Things Can Make a Big Difference~~
 * ~~Outliers: The Story of Success~~
 * The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
@@ -17,7 +17,7 @@ redirect_from:
 * ~~The Vegetarian: a novel~~
 * Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
-* The Satanic Verses
+* ~~The Satanic Verses~~
 
   
 ## Summer 2024
