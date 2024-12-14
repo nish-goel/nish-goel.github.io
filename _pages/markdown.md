@@ -18,6 +18,7 @@ redirect_from:
 * Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
 * ~~The Satanic Verses~~
+* Engineering in plain sight : an illustrated field guide to the constructed environment
 
   
 ## Summer 2024
