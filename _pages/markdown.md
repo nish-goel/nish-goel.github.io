@@ -20,7 +20,7 @@ redirect_from:
 * ~~The Satanic Verses~~
 * Engineering in plain sight : an illustrated field guide to the constructed environment
 * ~~Animal Farm: A Fairy Story~~
-* Nineteen Eighty-Four
+* ~~Nineteen Eighty-Four~~
 
   
 ## Summer 2024
