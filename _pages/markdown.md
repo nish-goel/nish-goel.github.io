@@ -7,18 +7,20 @@ redirect_from:
   - /markdown.html
 ---
 
+## Spring 2025
+* The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
+* Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
+* How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
+* Underground Empire: How America Weaponized the World Economy
+
 ## Fall 2024
 * ~~What Went Wrong with Capitalism~~
 * ~~The Future Is History: How Totalitarianism Reclaimed Russia~~
 * ~~The Tipping Point: How Little Things Can Make a Big Difference~~
 * ~~Outliers: The Story of Success~~
-* The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
 * ~~Why Nations Fail: The Origins of Power, Prosperity, and Poverty~~
 * ~~The Vegetarian: a novel~~
-* Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering
-* How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
 * ~~The Satanic Verses~~
-* Engineering in plain sight : an illustrated field guide to the constructed environment
 * ~~Animal Farm: A Fairy Story~~
 * ~~Nineteen Eighty-Four~~
 
