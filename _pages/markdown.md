@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 ## Spring 2025
-* The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century
+* ~~The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the Twenty-first Century~~
 * ~~Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering~~
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
 * ~~Underground Empire: How America Weaponized the World Economy~~
 * Brave New World
+* Takeover: Hitler's Final Rise to Power
 
 ## Fall 2024
 * ~~What Went Wrong with Capitalism~~
