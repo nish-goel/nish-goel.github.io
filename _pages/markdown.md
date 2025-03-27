@@ -13,7 +13,7 @@ redirect_from:
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
 * ~~Underground Empire: How America Weaponized the World Economy~~
 * Brave New World
-* Takeover: Hitler's Final Rise to Power
+* ~~Takeover: Hitler's Final Rise to Power~~
 
 ## Fall 2024
 * ~~What Went Wrong with Capitalism~~
