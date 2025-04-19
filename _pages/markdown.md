@@ -12,7 +12,7 @@ redirect_from:
 * ~~Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering~~
 * How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen
 * ~~Underground Empire: How America Weaponized the World Economy~~
-* Brave New World
+* ~~Brave New World~~
 * ~~Takeover: Hitler's Final Rise to Power~~
 
 ## Fall 2024
